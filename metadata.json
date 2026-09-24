@@ -1,0 +1,6 @@
+{
+  "name": "Daily Rise",
+  "description": "Start Your Day with Inspiration. Daily motivational quotes in English & Hindi, categories, custom quotes, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
